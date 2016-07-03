@@ -1,0 +1,153 @@
+.version.about /* version checker */
+{
+	color: #0000E7;
+	background-color: #5C43ED;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 418px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #FAFF97;
+	padding-top: 20px;
+	padding-bottom: 62px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u579-4
+{
+	z-index: 2;
+	min-height: 19px;
+	position: relative;
+	width: 5.94%;
+	margin-left: 91.98%;
+}
+
+#pu602
+{
+	width: 87.61%;
+	margin-left: 2.09%;
+}
+
+#u602
+{
+	z-index: 21;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	width: 25.93%;
+}
+
+#u554-15
+{
+	z-index: 6;
+	min-height: 42px;
+	position: relative;
+	margin-right: -10000px;
+	width: 72.89%;
+	left: 27.12%;
+}
+
+#u542-28
+{
+	z-index: 23;
+	min-height: 420px;
+	background-color: transparent;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+	width: 95.84%;
+	margin-left: 2.09%;
+}
+
+#u542-4,#u542-6,#u542-7,#u542-9,#u542-10,#u542-11
+{
+	color: #474747;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u542-16
+{
+	font-size: 22px;
+	color: #474747;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u542-3,#u542-13,#u542-14,#u542-17
+{
+	font-size: 22px;
+	line-height: 26px;
+	color: #474747;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+}
+
+#u542-20
+{
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u542-18
+{
+	font-size: 14px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: normal;
+	line-height: 17px;
+}
+
+#u542-24
+{
+	font-size: 22px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u542-15,#u542-21
+{
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 17px;
+}
+
+#u542-23
+{
+	font-size: 14px;
+	color: #474747;
+	font-weight: normal;
+	line-height: 17px;
+}
+
+#u542,#u542-25,#u542-26
+{
+	font-size: 22px;
+	line-height: 26px;
+	font-weight: bold;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+#u602_img
+{
+	width: 100%;
+}
+

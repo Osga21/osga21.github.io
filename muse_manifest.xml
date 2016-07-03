@@ -1,0 +1,31 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="osga21.github.io" resolutions="1x" timestamp="1467571192029">
+  <folder name="css">
+    <file name="site_global.css" crc="421392166"/>
+    <file name="master_a-master.css" crc="439416130" ref="index:small-scripts:about:projects"/>
+    <file name="index.css" crc="4027873183" ref="index"/>
+    <file name="small-scripts.css" crc="3925769101" ref="small-scripts"/>
+    <file name="about.css" crc="3881583597" ref="about"/>
+    <file name="projects.css" crc="96775072" ref="projects"/>
+  </folder>
+  <folder name="assets">
+    <file name="picromaker.zip" crc="45841387" seo="true" mt="1467568713000"/>
+    <file name="conversor.py" crc="3945101601" seo="true" mt="1457691905000"/>
+    <file name="maior.py" crc="3779086605" seo="true" mt="1457691905000"/>
+    <file name="somapar.py" crc="4096128606" seo="true" mt="1457691905000"/>
+    <file name="maior3.py" crc="352986527" seo="true" mt="1457691905000"/>
+    <file name="paridade.py" crc="229226835" seo="true" mt="1457691905000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:projects:small-scripts:about"/>
+    <file name="museutils.js" crc="531812214" ref="index:projects:small-scripts:about"/>
+    <file name="whatinput.js" crc="84559013" ref="index:projects:small-scripts:about"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:projects:small-scripts:about"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="4161035995" seo="true" ref="index:projects:small-scripts:about"/>
+  </folder>
+  <file name="index.html" crc="207763684" seo="true" mt="1467571156127" redirect="true"/>
+  <file name="projects.html" crc="432401425" seo="true" mt="1467571156127" redirect="true"/>
+  <file name="small-scripts.html" crc="502507963" seo="true" mt="1467571156127" redirect="true"/>
+  <file name="about.html" crc="4273477662" seo="true" mt="1467571156127" redirect="true"/>
+</manifest>
