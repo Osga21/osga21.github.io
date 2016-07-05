@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #000005;
-	background-color: #C4ABA0;
+	color: #000007;
+	background-color: #AA2974;
 }
 
 #page
@@ -37,7 +37,7 @@
 
 #u602
 {
-	z-index: 59;
+	z-index: 56;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 9px;
@@ -46,7 +46,7 @@
 
 #u554-15
 {
-	z-index: 44;
+	z-index: 41;
 	min-height: 42px;
 	position: relative;
 	margin-right: -10000px;
@@ -54,57 +54,75 @@
 	left: 27.12%;
 }
 
-#u557-38
+#pu557-35
 {
-	z-index: 6;
-	min-height: 619px;
-	background-color: transparent;
-	top: -1px;
-	margin-bottom: -1px;
-	position: relative;
+	margin-top: -1px;
 	width: 95.84%;
 	margin-left: 2.09%;
 }
 
-#u557-5,#u557-6
+#u557-35
+{
+	z-index: 6;
+	min-height: 619px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 100%;
+}
+
+#u557-5
 {
 	font-size: 22px;
-	line-height: 26px;
+	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u557-23
+#u557-21
 {
 	color: #474747;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u557-21
+#u557-19
 {
-	line-height: 17px;
+	line-height: 19px;
 }
 
-#u557-22
+#u557-20
 {
 	font-size: 22px;
-	line-height: 26px;
+	line-height: 30px;
 }
 
-#u557-8,#u557-10,#u557-11,#u557-19,#u557-24,#u557-31,#u557-32
+#u557-7,#u557-9,#u557-17,#u557-28,#u557-29
 {
+	line-height: 19px;
 	color: #474747;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u557-18,#u557-20,#u557-29,#u557-36
+#u557-16,#u557-18,#u557-26,#u557-33
 {
+	line-height: 19px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u557-4,#u557-12,#u557-15,#u557-25,#u557-28,#u557-33
+#u557-4,#u557-10,#u557-13,#u557-22,#u557-25,#u557-30
 {
 	color: #474747;
+}
+
+#u618
+{
+	z-index: 58;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	width: 5.22%;
+	left: 12.83%;
 }
 
 #muse_css_mq,.html
@@ -118,7 +136,7 @@ body
 	min-width: 320px;
 }
 
-#u602_img
+#u618_img,#u602_img
 {
 	width: 100%;
 }

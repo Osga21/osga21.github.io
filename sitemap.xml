@@ -37,32 +37,62 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://osga21.github.io/assets/tradu%C3%A7ao-pt-pt-by-osga21.zip</loc>
+    <lastmod>2016-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://osga21.github.io/assets/mustaine-rip-lead.preset</loc>
+    <lastmod>2016-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://osga21.github.io/assets/us-metal.preset</loc>
+    <lastmod>2015-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://osga21.github.io/assets/guitar-rig-5-custom-presets.rar</loc>
+    <lastmod>2016-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://osga21.github.io/images/logo.png</loc>
-    <lastmod>2016-07-03</lastmod>
+    <lastmod>2016-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://osga21.github.io/images/icon.png</loc>
+    <lastmod>2016-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://osga21.github.io/index.html</loc>
-    <lastmod>2016-07-03</lastmod>
+    <lastmod>2016-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://osga21.github.io/projects.html</loc>
-    <lastmod>2016-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://osga21.github.io/small-scripts.html</loc>
-    <lastmod>2016-07-03</lastmod>
+    <lastmod>2016-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://osga21.github.io/about.html</loc>
-    <lastmod>2016-07-03</lastmod>
+    <lastmod>2016-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://osga21.github.io/other-junk.html</loc>
+    <lastmod>2016-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,7 +1,7 @@
-.version.about /* version checker */
+.version.other_junk /* version checker */
 {
-	color: #00000C;
-	background-color: #C95C7B;
+	color: #000004;
+	background-color: #A4D445;
 }
 
 #page
@@ -37,7 +37,7 @@
 
 #u602
 {
-	z-index: 21;
+	z-index: 104;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 9px;
@@ -46,7 +46,7 @@
 
 #u554-15
 {
-	z-index: 6;
+	z-index: 89;
 	min-height: 42px;
 	position: relative;
 	margin-right: -10000px;
@@ -54,10 +54,10 @@
 	left: 27.12%;
 }
 
-#u542-29
+#u566-83
 {
-	z-index: 23;
-	min-height: 420px;
+	z-index: 6;
+	min-height: 478px;
 	background-color: transparent;
 	top: -1px;
 	margin-bottom: -1px;
@@ -66,82 +66,112 @@
 	margin-left: 2.09%;
 }
 
-#u542-5,#u542-6,#u542-8,#u542-9,#u542-10
+#u566
 {
+	text-align: left;
+}
+
+#u566-6
+{
+	font-size: 18px;
+	text-align: left;
+	line-height: 24px;
+	color: #474747;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u566-3,#u566-4,#u566-8,#u566-9,#u566-15,#u566-21,#u566-27
+{
+	text-align: left;
 	line-height: 19px;
 	color: #474747;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u542-14
+#u566-33
 {
-	font-size: 22px;
+	text-align: left;
+	line-height: 19px;
+	text-indent: -1px;
 	color: #474747;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: bold;
+}
+
+#u566-14,#u566-20,#u566-26,#u566-32,#u566-38,#u566-39
+{
+	text-align: left;
+	line-height: 19px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u566-41
+{
+	font-size: 18px;
+	text-align: left;
+	line-height: 24px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u566-43,#u566-47
+{
+	font-size: 18px;
+	text-align: left;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u542-3,#u542-12,#u542-15
-{
-	font-size: 22px;
-	line-height: 30px;
-	color: #474747;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: bold;
-}
-
-#u542-18
-{
-	font-size: 22px;
-	font-weight: bold;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u542-16
-{
-	font-size: 14px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: normal;
-	line-height: 19px;
-}
-
-#u542-13,#u542-19
-{
-	font-size: 14px;
-	font-weight: normal;
-	line-height: 19px;
-}
-
-#u542-22,#u542-24
-{
-	font-size: 22px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: bold;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u542-21,#u542-23
+#u566-42,#u566-44
 {
 	font-size: 14px;
 	color: #474747;
-	font-weight: normal;
 	line-height: 19px;
 }
 
-#u542-25
+#u566-45
 {
-	font-size: 22px;
-	line-height: 26px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: bold;
+	font-size: 14px;
+	line-height: 19px;
 }
 
-#u542,#u542-26,#u542-27
+#u566-2,#u566-10,#u566-13,#u566-16,#u566-19,#u566-22,#u566-25,#u566-28,#u566-31,#u566-34,#u566-37,#u566-40,#u566-50
 {
-	font-size: 22px;
-	line-height: 26px;
-	font-weight: bold;
+	color: #474747;
+}
+
+#u566-53,#u566-61,#u566-65,#u566-67,#u566-72
+{
+	font-size: 18px;
+	letter-spacing: 0px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u566-52,#u566-58,#u566-64,#u566-66,#u566-69
+{
+	font-size: 14px;
+	color: #474747;
+	line-height: 17px;
+}
+
+#u566-55,#u566-56,#u566-59,#u566-70
+{
+	font-size: 14px;
+	line-height: 17px;
+}
+
+#u566-48,#u566-49,#u566-51,#u566-54,#u566-62,#u566-63,#u566-68,#u566-73,#u566-74,#u566-75,#u566-76,#u566-77,#u566-78,#u566-79,#u566-80
+{
+	font-size: 18px;
+	line-height: 21px;
+	letter-spacing: 0px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u566-81
+{
+	line-height: 17px;
+	letter-spacing: 0px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #muse_css_mq,.html
