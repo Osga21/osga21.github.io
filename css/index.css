@@ -1,7 +1,12 @@
 .version.index /* version checker */
 {
-	color: #0000F4;
-	background-color: #C5E6AB;
+	color: #00001D;
+	background-color: #6004B5;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
 }
 
 #page
@@ -80,9 +85,9 @@
 	font-style: italic;
 }
 
-#muse_css_mq,.html
+.html
 {
-	background-color: #FFFFFF;
+	background-color: #FAFF97;
 }
 
 body

@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="osga21.github.io" resolutions="1x" timestamp="1467735660007">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="osga21.github.io" resolutions="1x" timestamp="1467736198624">
   <folder name="css">
     <file name="site_global.css" crc="354898625"/>
-    <file name="master_a-master.css" crc="439416130" ref="index:about:projects:other-junk"/>
-    <file name="index.css" crc="4106610347" ref="index"/>
-    <file name="about.css" crc="214523003" ref="about"/>
-    <file name="projects.css" crc="128592244" ref="projects"/>
-    <file name="other-junk.css" crc="77911109" ref="other-junk"/>
+    <file name="master_a-master.css" crc="439416130" ref="projects:index:about:other-junk"/>
+    <file name="projects.css" crc="506956851" ref="projects"/>
+    <file name="index.css" crc="492831925" ref="index"/>
+    <file name="about.css" crc="147286920" ref="about"/>
+    <file name="other-junk.css" crc="46851041" ref="other-junk"/>
   </folder>
   <folder name="assets">
     <file name="picromaker.zip" crc="45841387" seo="true" mt="1467568713000"/>
@@ -20,17 +20,17 @@
     <file name="guitar-rig-5-custom-presets.rar" crc="18922884" seo="true" mt="1467734530000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:projects:about:other-junk"/>
-    <file name="museutils.js" crc="531812214" ref="index:projects:about:other-junk"/>
-    <file name="whatinput.js" crc="84559013" ref="index:projects:about:other-junk"/>
-    <file name="jquery.watch.js" crc="3866665977" ref="index:projects:about:other-junk"/>
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:projects:other-junk:about"/>
+    <file name="museutils.js" crc="531812214" ref="index:projects:other-junk:about"/>
+    <file name="whatinput.js" crc="84559013" ref="index:projects:other-junk:about"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:projects:other-junk:about"/>
   </folder>
   <folder name="images">
-    <file name="logo.png" crc="4161035995" seo="true" ref="index:projects:about:other-junk"/>
+    <file name="logo.png" crc="4161035995" seo="true" ref="index:projects:other-junk:about"/>
     <file name="icon.png" crc="4225830519" seo="true" ref="projects"/>
   </folder>
-  <file name="index.html" crc="4288677242" seo="true" mt="1467735642315" redirect="true"/>
-  <file name="projects.html" crc="3766703351" seo="true" mt="1467735642315" redirect="true"/>
-  <file name="about.html" crc="4008178501" seo="true" mt="1467735642315" redirect="true"/>
-  <file name="other-junk.html" crc="4243561253" seo="true" mt="1467735642315" redirect="true"/>
+  <file name="index.html" crc="4288677242" seo="true" mt="1467736156071" redirect="true"/>
+  <file name="projects.html" crc="3766703351" seo="true" mt="1467736156071" redirect="true"/>
+  <file name="other-junk.html" crc="4243561253" seo="true" mt="1467736156071" redirect="true"/>
+  <file name="about.html" crc="4008178501" seo="true" mt="1467736156071" redirect="true"/>
 </manifest>

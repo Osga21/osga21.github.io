@@ -1,7 +1,12 @@
 .version.other_junk /* version checker */
 {
-	color: #000004;
-	background-color: #A4D445;
+	color: #000002;
+	background-color: #CAE3E1;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
 }
 
 #page
@@ -174,9 +179,9 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#muse_css_mq,.html
+.html
 {
-	background-color: #FFFFFF;
+	background-color: #FAFF97;
 }
 
 body
