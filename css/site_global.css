@@ -128,12 +128,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-.Mine a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .Mine a:link
 {
 	color: #030C00;

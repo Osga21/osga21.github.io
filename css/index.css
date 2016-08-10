@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001D;
-	background-color: #6004B5;
+	color: #0000EF;
+	background-color: #2E15FD;
 }
 
 #muse_css_mq
@@ -12,13 +12,13 @@
 #page
 {
 	z-index: 1;
-	min-height: 232px;
+	min-height: 418px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #FAFF97;
 	padding-top: 20px;
-	padding-bottom: 248px;
+	padding-bottom: 62px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
@@ -59,30 +59,60 @@
 	left: 27.12%;
 }
 
-#u357-11
+#pu357-9
 {
-	z-index: 23;
-	min-height: 72px;
-	background-color: transparent;
-	margin-top: 21px;
-	position: relative;
+	margin-top: 19px;
 	width: 70.21%;
-	margin-left: 2.09%;
+	margin-left: 14.9%;
 }
 
-#u357-2,#u357-3,#u357-7
+#u357-9
+{
+	z-index: 23;
+	min-height: 76px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 100%;
+}
+
+#u357-2,#u357-3,#u357-5
 {
 	color: #474747;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u357-8,#u357-9
+#u357-6,#u357-7
 {
 	font-size: 34px;
 	text-decoration: none;
 	line-height: 41px;
 	font-weight: bold;
 	font-style: italic;
+}
+
+#u642
+{
+	z-index: 33;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 94px;
+	width: 66.92%;
+	left: 16.47%;
+}
+
+#u638
+{
+	z-index: 32;
+	min-height: 124px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 91px;
+	position: relative;
+	width: 41.67%;
+	margin-left: 29.17%;
 }
 
 .html
@@ -96,7 +126,7 @@ body
 	min-width: 320px;
 }
 
-#u602_img
+#u642_img,#u602_img
 {
 	width: 100%;
 }

@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #000008;
-	background-color: #C76B88;
+	color: #000017;
+	background-color: #9440D9;
 }
 
 #muse_css_mq
@@ -59,16 +59,21 @@
 	left: 27.12%;
 }
 
+#pu542-29
+{
+	margin-top: -1px;
+	width: 95.84%;
+	margin-left: 2.09%;
+}
+
 #u542-29
 {
 	z-index: 23;
 	min-height: 420px;
 	background-color: transparent;
-	top: -1px;
-	margin-bottom: -1px;
 	position: relative;
-	width: 95.84%;
-	margin-left: 2.09%;
+	margin-right: -10000px;
+	width: 100%;
 }
 
 #u542-5,#u542-6,#u542-8,#u542-9,#u542-10
@@ -147,6 +152,19 @@
 	font-size: 22px;
 	line-height: 26px;
 	font-weight: bold;
+}
+
+#u652
+{
+	z-index: 52;
+	min-height: 96px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 383px;
+	width: 43.48%;
 }
 
 .html

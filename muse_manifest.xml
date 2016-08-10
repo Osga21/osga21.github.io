@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="osga21.github.io" resolutions="1x" timestamp="1467736198624">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="osga21.github.io" resolutions="1x" timestamp="1470827780838">
   <folder name="css">
-    <file name="site_global.css" crc="354898625"/>
+    <file name="site_global.css" crc="115367143"/>
     <file name="master_a-master.css" crc="439416130" ref="projects:index:about:other-junk"/>
     <file name="projects.css" crc="506956851" ref="projects"/>
-    <file name="index.css" crc="492831925" ref="index"/>
-    <file name="about.css" crc="147286920" ref="about"/>
+    <file name="index.css" crc="4012774909" ref="index"/>
+    <file name="about.css" crc="395591897" ref="about"/>
     <file name="other-junk.css" crc="46851041" ref="other-junk"/>
   </folder>
   <folder name="assets">
@@ -28,9 +28,10 @@
   <folder name="images">
     <file name="logo.png" crc="4161035995" seo="true" ref="index:projects:other-junk:about"/>
     <file name="icon.png" crc="4225830519" seo="true" ref="projects"/>
+    <file name="untitled-1.png" crc="3914396753" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4288677242" seo="true" mt="1467736156071" redirect="true"/>
+  <file name="index.html" crc="410399471" seo="true" mt="1470827772658" redirect="true"/>
   <file name="projects.html" crc="3766703351" seo="true" mt="1467736156071" redirect="true"/>
   <file name="other-junk.html" crc="4243561253" seo="true" mt="1467736156071" redirect="true"/>
-  <file name="about.html" crc="4008178501" seo="true" mt="1467736156071" redirect="true"/>
+  <file name="about.html" crc="526798278" seo="true" mt="1470827738106" redirect="true"/>
 </manifest>
