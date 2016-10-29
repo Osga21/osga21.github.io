@@ -12,8 +12,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?72057780"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?3876318710"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?4164237701" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_master-page.css?304569350"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?216852528" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
@@ -29,13 +29,48 @@
    <div class="clearfix colelem" id="u579-4"><!-- content -->
     <p>©2016</p>
    </div>
-   <div class="clearfix colelem" id="pu663"><!-- group -->
-    <div class="clip_frame grpelem" id="u663"><!-- image -->
-     <img class="block" id="u663_img" src="images/x-osga21.png" alt="" data-image-width="272" data-image-height="45"/>
-    </div>
+   <div class="clearfix colelem" id="pu687"><!-- group -->
+    <div class="grpelem" id="u687"><!-- custom html -->
+     <html> 
+
+<script language="JavaScript"> 
+var myDate = new Date(); 
+  
+  
+/* hour is before noon */
+if ( myDate.getHours() < 12 )  
+{ 
+    document.write("Good Morning"); 
+} 
+else  /* Hour is from noon to 5pm (actually to 5:59 pm) */
+if ( myDate.getHours() >= 12 && myDate.getHours() <= 17 ) 
+{ 
+    document.write("Good Afternoon"); 
+} 
+else  /* the hour is after 5pm, so it is between 6pm and midnight */
+if ( myDate.getHours() > 17 && myDate.getHours() <= 24 ) 
+{ 
+    document.write("Good Evening"); 
+} 
+else  /* the hour is not between 0 and 24, so something is wrong */
+{ 
+    document.write("   "); 
+} 
+  
+  
+</script> 
+ 
+  
+</body> 
+</html>
+
+</div>
     <div class="clearfix grpelem" id="u554-17"><!-- content -->
      <p>&nbsp;</p>
      <p id="u554-15"><span id="u554-2">[</span><a class="nonblock" href="index.html"><span id="u554-3">Home</span></a><span id="u554-5">] [</span><a class="nonblock" href="projects.html"><span id="u554-6">Projects</span></a><span id="u554-8">] [</span><a class="nonblock" href="other-junk.html"><span id="u554-9">Other Junk</span></a><span id="u554-11">] [</span><a class="nonblock" href="about.html"><span id="u554-12">About</span></a><span id="u554-14">]</span></p>
+    </div>
+    <div class="clip_frame grpelem" id="u663"><!-- image -->
+     <img class="block" id="u663_img" src="images/x-osga21.png" alt="" data-image-width="272" data-image-height="45"/>
     </div>
    </div>
    <div class="clearfix colelem" id="u357-11"><!-- content -->
@@ -45,6 +80,37 @@
     <p id="u357-8">&nbsp;</p>
     <p id="u357-9">&nbsp;</p>
    </div>
+   <div class="colelem" id="u679"><!-- custom html -->
+    <SCRIPT LANGUAGE="JavaScript">
+var now = new Date();
+
+var days = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday');
+
+var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
+
+var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();
+
+function fourdigits(number)	{
+	return (number < 1000) ? number + 1900 : number;
+								}
+today =  days[now.getDay()] + ", " +
+         months[now.getMonth()] + " " +
+         date + ", " +
+         (fourdigits(now.getYear())) ;
+
+document.write(today);
+</script>
+
+
+</div>
+   <div class="colelem" id="u683"><!-- custom html -->
+    <SCRIPT LANGUAGE="JavaScript">
+var ip = '<!--#echo var="REMOTE_ADDR"-->';
+document.write("Connected to " + ip);
+</script>
+
+
+</div>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">

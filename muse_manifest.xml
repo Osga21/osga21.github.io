@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="osga21.github.io" resolutions="1x" timestamp="1477758762283">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="osga21.github.io" resolutions="1x" timestamp="1477767228110">
   <folder name="fonts">
     <file name="perfectdosvga437win.woff" crc="4054425561"/>
     <file name="perfectdosvga437win.eot" crc="297327025"/>
@@ -6,11 +6,11 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="72057780"/>
-    <file name="master_a-master.css" crc="3876318710" ref="projects:index:about:other-junk"/>
-    <file name="projects.css" crc="3861603230" ref="projects"/>
-    <file name="index.css" crc="4164237701" ref="index"/>
-    <file name="about.css" crc="4189630993" ref="about"/>
-    <file name="other-junk.css" crc="164589980" ref="other-junk"/>
+    <file name="projects.css" crc="4260194669" ref="projects"/>
+    <file name="index.css" crc="216852528" ref="index"/>
+    <file name="about.css" crc="10823797" ref="about"/>
+    <file name="other-junk.css" crc="461033099" ref="other-junk"/>
+    <file name="master_master-page.css" crc="304569350" ref="other-junk:index:about:projects"/>
   </folder>
   <folder name="assets">
     <file name="picromaker.zip" crc="45841387" seo="true" mt="1467568713000"/>
@@ -27,8 +27,8 @@
   <folder name="images">
     <file name="x-osga21.png" crc="160255770" seo="true" ref="index:projects:other-junk:about"/>
   </folder>
-  <file name="index.html" crc="513330678" seo="true" mt="1477758477662" redirect="true"/>
-  <file name="projects.html" crc="4178823875" seo="true" mt="1477758477651" redirect="true"/>
-  <file name="other-junk.html" crc="483347339" seo="true" mt="1477758477661" redirect="true"/>
-  <file name="about.html" crc="4183712020" seo="true" mt="1477758477651" redirect="true"/>
+  <file name="index.html" crc="423776735" seo="true" mt="1477767160632" redirect="true"/>
+  <file name="projects.html" crc="4013874444" seo="true" mt="1477767160632" redirect="true"/>
+  <file name="other-junk.html" crc="222014504" seo="true" mt="1477767160632" redirect="true"/>
+  <file name="about.html" crc="225338965" seo="true" mt="1477767160632" redirect="true"/>
 </manifest>

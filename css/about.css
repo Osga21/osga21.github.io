@@ -4,8 +4,8 @@
 
 .version.about /* version checker */
 {
-	color: #0000F9;
-	background-color: #B8B211;
+	color: #000000;
+	background-color: #A52875;
 }
 
 #muse_css_mq
@@ -16,13 +16,13 @@
 #page
 {
 	z-index: 1;
-	min-height: 418px;
+	min-height: 470px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
 	padding-top: 20px;
-	padding-bottom: 62px;
+	padding-bottom: 10px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
@@ -38,37 +38,50 @@
 	margin-left: 91.98%;
 }
 
-#pu663
+#pu687
 {
 	margin-top: -4px;
-	width: 92.92%;
+	width: 97.5%;
 	margin-left: 2.09%;
 }
 
-#u663
+#u687
 {
-	z-index: 23;
+	z-index: 8;
+	min-height: 42px;
 	position: relative;
 	margin-right: -10000px;
-	width: 30.5%;
+	margin-top: 4px;
+	width: 17.95%;
+	left: 82.06%;
 }
 
 #u554-17
 {
-	z-index: 6;
+	z-index: 9;
 	min-height: 42px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3px;
-	width: 68.73%;
-	left: 31.28%;
+	width: 65.5%;
+	left: 29.81%;
 }
 
-#u542-25
+#u663
 {
-	z-index: 25;
+	z-index: 26;
+	position: relative;
+	margin-right: -10000px;
+	width: 29.06%;
+}
+
+#u542-31
+{
+	z-index: 28;
 	min-height: 420px;
 	background-color: transparent;
+	top: -1px;
+	margin-bottom: -1px;
 	position: relative;
 	width: 95.84%;
 	margin-left: 2.09%;
@@ -83,9 +96,9 @@
 
 #u542-3
 {
-	font-size: 22px;
-	line-height: 30px;
-	color: #FFFFFF;
+	font-size: 16px;
+	line-height: 22px;
+	color: #ED1C24;
 	font-family: '__Perfect DOS VGA 437 Win_5';
 	font-weight: 400;
 }
@@ -151,7 +164,13 @@
 	font-weight: 700;
 }
 
-#u542-20
+#u542-19
+{
+	color: #79FF5B;
+	font-weight: 400;
+}
+
+#u542-20,#u542-21,#u542-22
 {
 	font-size: 16px;
 	line-height: 22px;
@@ -160,31 +179,54 @@
 	font-weight: 700;
 }
 
-#u542-18
+#u542-26
+{
+	font-size: 16px;
+	line-height: 22px;
+	color: #D4145A;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 700;
+}
+
+#u542-18,#u542-23,#u542-24
 {
 	font-weight: 400;
 }
 
-#u542-19
-{
-	color: #79FF5B;
-	font-weight: 400;
-}
-
-#u542-21
+#u542-27
 {
 	font-size: 22px;
 	line-height: 26px;
-	color: #FFFFFF;
+	color: #D4145A;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 }
 
-#u542-22,#u542-23
+#u542-28,#u542-29
 {
 	font-size: 22px;
 	line-height: 26px;
 	font-weight: bold;
+}
+
+#u679
+{
+	z-index: 6;
+	min-height: 26px;
+	position: relative;
+	width: 30.32%;
+	margin-left: 2.09%;
+}
+
+#u683
+{
+	z-index: 7;
+	min-height: 33px;
+	top: -7px;
+	margin-bottom: -7px;
+	position: relative;
+	width: 56.98%;
+	margin-left: 1.98%;
 }
 
 .html

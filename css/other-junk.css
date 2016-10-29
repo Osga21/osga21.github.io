@@ -4,8 +4,8 @@
 
 .version.other_junk /* version checker */
 {
-	color: #000009;
-	background-color: #CF719C;
+	color: #00001B;
+	background-color: #7ACE8B;
 }
 
 #muse_css_mq
@@ -16,13 +16,13 @@
 #page
 {
 	z-index: 1;
-	min-height: 418px;
+	min-height: 470px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
 	padding-top: 20px;
-	padding-bottom: 62px;
+	padding-bottom: 10px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
@@ -38,37 +38,50 @@
 	margin-left: 91.98%;
 }
 
-#pu663
+#pu687
 {
 	margin-top: -4px;
-	width: 92.92%;
+	width: 97.5%;
 	margin-left: 2.09%;
 }
 
-#u663
+#u687
 {
-	z-index: 77;
+	z-index: 8;
+	min-height: 42px;
 	position: relative;
 	margin-right: -10000px;
-	width: 30.5%;
+	margin-top: 4px;
+	width: 17.95%;
+	left: 82.06%;
 }
 
 #u554-17
 {
-	z-index: 60;
+	z-index: 61;
 	min-height: 42px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3px;
-	width: 68.73%;
-	left: 31.28%;
+	width: 65.5%;
+	left: 29.81%;
 }
 
-#u566-54
+#u663
 {
-	z-index: 6;
+	z-index: 78;
+	position: relative;
+	margin-right: -10000px;
+	width: 29.06%;
+}
+
+#u566-52
+{
+	z-index: 9;
 	min-height: 478px;
 	background-color: transparent;
+	top: -1px;
+	margin-bottom: -1px;
 	position: relative;
 	width: 95.84%;
 	margin-left: 2.09%;
@@ -110,15 +123,15 @@
 
 #u566-7
 {
-	font-size: 22px;
+	font-size: 16px;
 	text-align: left;
-	line-height: 30px;
-	color: #FFFFFF;
+	line-height: 22px;
+	color: #ED1C24;
 	font-family: '__Perfect DOS VGA 437 Win_5';
 	font-weight: 400;
 }
 
-#u566-10
+#u566-9
 {
 	font-size: 18px;
 	text-align: left;
@@ -130,17 +143,11 @@
 
 #u566-8
 {
-	font-size: 14px;
-	line-height: 19px;
-}
-
-#u566-9
-{
 	font-size: 16px;
 	line-height: 22px;
 }
 
-#u566-14
+#u566-13
 {
 	font-size: 16px;
 	text-align: left;
@@ -149,7 +156,13 @@
 	font-weight: 400;
 }
 
-#u566-16,#u566-32,#u566-33
+#u566-18
+{
+	font-size: 14px;
+	line-height: 17px;
+}
+
+#u566-15,#u566-31,#u566-32
 {
 	font-size: 18px;
 	line-height: 21px;
@@ -158,17 +171,17 @@
 	font-weight: 400;
 }
 
-#u566-18,#u566-35
+#u566-17,#u566-34
 {
-	font-size: 22px;
-	line-height: 26px;
+	font-size: 16px;
+	line-height: 19px;
 	letter-spacing: 0px;
-	color: #FFFFFF;
+	color: #ED1C24;
 	font-family: '__Perfect DOS VGA 437 Win_5';
 	font-weight: 400;
 }
 
-#u566-21,#u566-38
+#u566-20,#u566-36
 {
 	font-size: 18px;
 	letter-spacing: 0px;
@@ -178,19 +191,13 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u566-19,#u566-36
-{
-	font-size: 14px;
-	line-height: 17px;
-}
-
-#u566-20,#u566-37
+#u566-19,#u566-35
 {
 	font-size: 16px;
 	line-height: 19px;
 }
 
-#u566-22,#u566-39
+#u566-21,#u566-37
 {
 	font-size: 18px;
 	line-height: 21px;
@@ -200,7 +207,7 @@
 	font-weight: 400;
 }
 
-#u566-27,#u566-31,#u566-43
+#u566-26,#u566-30,#u566-41
 {
 	font-size: 16px;
 	line-height: 19px;
@@ -209,12 +216,12 @@
 	font-weight: 400;
 }
 
-#u566-11,#u566-26,#u566-40
+#u566-10,#u566-25,#u566-38
 {
 	color: #474747;
 }
 
-#u566-15,#u566-44,#u566-45,#u566-46,#u566-47,#u566-48,#u566-49,#u566-50,#u566-51
+#u566-14,#u566-42,#u566-43,#u566-44,#u566-45,#u566-46,#u566-47,#u566-48,#u566-49
 {
 	font-size: 18px;
 	line-height: 21px;
@@ -222,11 +229,31 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u566-52
+#u566-50
 {
 	line-height: 17px;
 	letter-spacing: 0px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u679
+{
+	z-index: 6;
+	min-height: 26px;
+	position: relative;
+	width: 30.32%;
+	margin-left: 2.09%;
+}
+
+#u683
+{
+	z-index: 7;
+	min-height: 33px;
+	top: -7px;
+	margin-bottom: -7px;
+	position: relative;
+	width: 56.98%;
+	margin-left: 1.98%;
 }
 
 .html
