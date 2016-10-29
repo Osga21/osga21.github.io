@@ -1,7 +1,11 @@
+/*
+
+*/
+
 .version.index /* version checker */
 {
-	color: #0000EF;
-	background-color: #2E15FD;
+	color: #0000F8;
+	background-color: #353985;
 }
 
 #muse_css_mq
@@ -12,13 +16,13 @@
 #page
 {
 	z-index: 1;
-	min-height: 418px;
+	min-height: 275px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FAFF97;
+	background-color: #000000;
 	padding-top: 20px;
-	padding-bottom: 62px;
+	padding-bottom: 205px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
@@ -34,55 +38,63 @@
 	margin-left: 91.98%;
 }
 
-#pu602
+#pu663
 {
-	width: 87.61%;
+	margin-top: -4px;
+	width: 92.92%;
 	margin-left: 2.09%;
 }
 
-#u602
+#u663
 {
-	z-index: 21;
+	z-index: 23;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	width: 25.93%;
+	width: 30.5%;
 }
 
-#u554-15
+#u554-17
 {
 	z-index: 6;
 	min-height: 42px;
 	position: relative;
 	margin-right: -10000px;
-	width: 72.89%;
-	left: 27.12%;
+	margin-top: 3px;
+	width: 68.73%;
+	left: 31.28%;
 }
 
-#pu357-9
+#u357-11
 {
-	margin-top: 19px;
+	z-index: 25;
+	min-height: 76px;
+	background-color: transparent;
+	margin-top: 60px;
+	position: relative;
 	width: 70.21%;
-	margin-left: 14.9%;
+	margin-left: 15.53%;
+}
+
+#u357-2,#u357-3,#u357-7
+{
+	font-size: 16px;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
+}
+
+#u357-8
+{
+	font-size: 16px;
+	text-decoration: none;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-style: italic;
 }
 
 #u357-9
-{
-	z-index: 23;
-	min-height: 76px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	width: 100%;
-}
-
-#u357-2,#u357-3,#u357-5
-{
-	color: #474747;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-}
-
-#u357-6,#u357-7
 {
 	font-size: 34px;
 	text-decoration: none;
@@ -91,33 +103,9 @@
 	font-style: italic;
 }
 
-#u642
-{
-	z-index: 33;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 94px;
-	width: 66.92%;
-	left: 16.47%;
-}
-
-#u638
-{
-	z-index: 32;
-	min-height: 124px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	margin-top: 91px;
-	position: relative;
-	width: 41.67%;
-	margin-left: 29.17%;
-}
-
 .html
 {
-	background-color: #FAFF97;
+	background-color: #000000;
 }
 
 body
@@ -126,8 +114,17 @@ body
 	min-width: 320px;
 }
 
-#u642_img,#u602_img
+#u663_img
 {
 	width: 100%;
+}
+
+@font-face
+{
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	src: url('../fonts/perfectdosvga437win.eot');
+	src: local('☺'), url('../fonts/perfectdosvga437win.woff') format('woff'), url('../fonts/perfectdosvga437win.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
 }
 

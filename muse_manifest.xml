@@ -1,19 +1,19 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="osga21.github.io" resolutions="1x" timestamp="1470827780838">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="osga21.github.io" resolutions="1x" timestamp="1477758762283">
+  <folder name="fonts">
+    <file name="perfectdosvga437win.woff" crc="4054425561"/>
+    <file name="perfectdosvga437win.eot" crc="297327025"/>
+    <file name="perfectdosvga437win.svg" crc="142642335"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="115367143"/>
-    <file name="master_a-master.css" crc="439416130" ref="projects:index:about:other-junk"/>
-    <file name="projects.css" crc="506956851" ref="projects"/>
-    <file name="index.css" crc="4012774909" ref="index"/>
-    <file name="about.css" crc="395591897" ref="about"/>
-    <file name="other-junk.css" crc="46851041" ref="other-junk"/>
+    <file name="site_global.css" crc="72057780"/>
+    <file name="master_a-master.css" crc="3876318710" ref="projects:index:about:other-junk"/>
+    <file name="projects.css" crc="3861603230" ref="projects"/>
+    <file name="index.css" crc="4164237701" ref="index"/>
+    <file name="about.css" crc="4189630993" ref="about"/>
+    <file name="other-junk.css" crc="164589980" ref="other-junk"/>
   </folder>
   <folder name="assets">
     <file name="picromaker.zip" crc="45841387" seo="true" mt="1467568713000"/>
-    <file name="conversor.py" crc="3945101601" seo="true" mt="1457691905000"/>
-    <file name="maior.py" crc="3779086605" seo="true" mt="1457691905000"/>
-    <file name="somapar.py" crc="4096128606" seo="true" mt="1457691905000"/>
-    <file name="maior3.py" crc="352986527" seo="true" mt="1457691905000"/>
-    <file name="paridade.py" crc="229226835" seo="true" mt="1457691905000"/>
     <file name="traduçao-pt-pt-by-osga21.zip" crc="3805264831" seo="true" mt="1467731452000"/>
     <file name="mustaine-rip-lead.preset" crc="88607198" seo="true" mt="1459340818000"/>
     <file name="us-metal.preset" crc="4292314767" seo="true" mt="1450456500000"/>
@@ -23,15 +23,12 @@
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:projects:other-junk:about"/>
     <file name="museutils.js" crc="531812214" ref="index:projects:other-junk:about"/>
     <file name="whatinput.js" crc="84559013" ref="index:projects:other-junk:about"/>
-    <file name="jquery.watch.js" crc="3866665977" ref="index:projects:other-junk:about"/>
   </folder>
   <folder name="images">
-    <file name="logo.png" crc="4161035995" seo="true" ref="index:projects:other-junk:about"/>
-    <file name="icon.png" crc="4225830519" seo="true" ref="projects"/>
-    <file name="untitled-1.png" crc="3914396753" seo="true" ref="index"/>
+    <file name="x-osga21.png" crc="160255770" seo="true" ref="index:projects:other-junk:about"/>
   </folder>
-  <file name="index.html" crc="410399471" seo="true" mt="1470827772658" redirect="true"/>
-  <file name="projects.html" crc="3766703351" seo="true" mt="1467736156071" redirect="true"/>
-  <file name="other-junk.html" crc="4243561253" seo="true" mt="1467736156071" redirect="true"/>
-  <file name="about.html" crc="526798278" seo="true" mt="1470827738106" redirect="true"/>
+  <file name="index.html" crc="513330678" seo="true" mt="1477758477662" redirect="true"/>
+  <file name="projects.html" crc="4178823875" seo="true" mt="1477758477651" redirect="true"/>
+  <file name="other-junk.html" crc="483347339" seo="true" mt="1477758477661" redirect="true"/>
+  <file name="about.html" crc="4183712020" seo="true" mt="1477758477651" redirect="true"/>
 </manifest>

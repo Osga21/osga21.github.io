@@ -1,7 +1,11 @@
+/*
+
+*/
+
 .version.about /* version checker */
 {
-	color: #000017;
-	background-color: #9440D9;
+	color: #0000F9;
+	background-color: #B8B211;
 }
 
 #muse_css_mq
@@ -16,7 +20,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FAFF97;
+	background-color: #000000;
 	padding-top: 20px;
 	padding-bottom: 62px;
 	width: 100%;
@@ -34,142 +38,158 @@
 	margin-left: 91.98%;
 }
 
-#pu602
+#pu663
 {
-	width: 87.61%;
+	margin-top: -4px;
+	width: 92.92%;
 	margin-left: 2.09%;
 }
 
-#u602
+#u663
 {
-	z-index: 21;
+	z-index: 23;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	width: 25.93%;
+	width: 30.5%;
 }
 
-#u554-15
+#u554-17
 {
 	z-index: 6;
 	min-height: 42px;
 	position: relative;
 	margin-right: -10000px;
-	width: 72.89%;
-	left: 27.12%;
-}
-
-#pu542-29
-{
-	margin-top: -1px;
-	width: 95.84%;
-	margin-left: 2.09%;
-}
-
-#u542-29
-{
-	z-index: 23;
-	min-height: 420px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	width: 100%;
-}
-
-#u542-5,#u542-6,#u542-8,#u542-9,#u542-10
-{
-	line-height: 19px;
-	color: #474747;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-}
-
-#u542-14
-{
-	font-size: 22px;
-	color: #474747;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: bold;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u542-3,#u542-12,#u542-15
-{
-	font-size: 22px;
-	line-height: 30px;
-	color: #474747;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: bold;
-}
-
-#u542-18
-{
-	font-size: 22px;
-	font-weight: bold;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u542-16
-{
-	font-size: 14px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: normal;
-	line-height: 19px;
-}
-
-#u542-13,#u542-19
-{
-	font-size: 14px;
-	font-weight: normal;
-	line-height: 19px;
-}
-
-#u542-22,#u542-24
-{
-	font-size: 22px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: bold;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u542-21,#u542-23
-{
-	font-size: 14px;
-	color: #474747;
-	font-weight: normal;
-	line-height: 19px;
+	margin-top: 3px;
+	width: 68.73%;
+	left: 31.28%;
 }
 
 #u542-25
 {
+	z-index: 25;
+	min-height: 420px;
+	background-color: transparent;
+	position: relative;
+	width: 95.84%;
+	margin-left: 2.09%;
+}
+
+#u542
+{
+	line-height: 19px;
+	color: #474747;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u542-3
+{
+	font-size: 22px;
+	line-height: 30px;
+	color: #FFFFFF;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
+}
+
+#u542-6
+{
+	font-size: 22px;
+	color: #FFFFFF;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u542-4
+{
+	font-size: 14px;
+	line-height: 19px;
+}
+
+#u542-5
+{
+	font-size: 16px;
+	line-height: 22px;
+}
+
+#u542-7
+{
+	font-size: 22px;
+	line-height: 30px;
+	color: #474747;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 700;
+}
+
+#u542-10
+{
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u542-13,#u542-16
+{
+	font-size: 22px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u542-8,#u542-11,#u542-14
+{
+	font-size: 16px;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
+	line-height: 22px;
+}
+
+#u542-17
+{
+	font-size: 22px;
+	line-height: 30px;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 700;
+}
+
+#u542-20
+{
+	font-size: 16px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 700;
+}
+
+#u542-18
+{
+	font-weight: 400;
+}
+
+#u542-19
+{
+	color: #79FF5B;
+	font-weight: 400;
+}
+
+#u542-21
+{
 	font-size: 22px;
 	line-height: 26px;
+	color: #FFFFFF;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 }
 
-#u542,#u542-26,#u542-27
+#u542-22,#u542-23
 {
 	font-size: 22px;
 	line-height: 26px;
 	font-weight: bold;
 }
 
-#u652
-{
-	z-index: 52;
-	min-height: 96px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 383px;
-	width: 43.48%;
-}
-
 .html
 {
-	background-color: #FAFF97;
+	background-color: #000000;
 }
 
 body
@@ -178,8 +198,17 @@ body
 	min-width: 320px;
 }
 
-#u602_img
+#u663_img
 {
 	width: 100%;
+}
+
+@font-face
+{
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	src: url('../fonts/perfectdosvga437win.eot');
+	src: local('☺'), url('../fonts/perfectdosvga437win.woff') format('woff'), url('../fonts/perfectdosvga437win.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
 }
 

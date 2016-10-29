@@ -1,7 +1,11 @@
+/*
+
+*/
+
 .version.other_junk /* version checker */
 {
-	color: #000002;
-	background-color: #CAE3E1;
+	color: #000009;
+	background-color: #CF719C;
 }
 
 #muse_css_mq
@@ -16,7 +20,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FAFF97;
+	background-color: #000000;
 	padding-top: 20px;
 	padding-bottom: 62px;
 	width: 100%;
@@ -34,38 +38,37 @@
 	margin-left: 91.98%;
 }
 
-#pu602
+#pu663
 {
-	width: 87.61%;
+	margin-top: -4px;
+	width: 92.92%;
 	margin-left: 2.09%;
 }
 
-#u602
+#u663
 {
-	z-index: 104;
+	z-index: 77;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	width: 25.93%;
+	width: 30.5%;
 }
 
-#u554-15
+#u554-17
 {
-	z-index: 89;
+	z-index: 60;
 	min-height: 42px;
 	position: relative;
 	margin-right: -10000px;
-	width: 72.89%;
-	left: 27.12%;
+	margin-top: 3px;
+	width: 68.73%;
+	left: 31.28%;
 }
 
-#u566-83
+#u566-54
 {
 	z-index: 6;
 	min-height: 478px;
 	background-color: transparent;
-	top: -1px;
-	margin-bottom: -1px;
 	position: relative;
 	width: 95.84%;
 	margin-left: 2.09%;
@@ -76,95 +79,142 @@
 	text-align: left;
 }
 
-#u566-6
+#u566-4
 {
-	font-size: 18px;
 	text-align: left;
-	line-height: 24px;
 	color: #474747;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-}
-
-#u566-3,#u566-4,#u566-8,#u566-9,#u566-15,#u566-21,#u566-27
-{
-	text-align: left;
-	line-height: 19px;
-	color: #474747;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-}
-
-#u566-33
-{
-	text-align: left;
-	line-height: 19px;
-	text-indent: -1px;
-	color: #474747;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-}
-
-#u566-14,#u566-20,#u566-26,#u566-32,#u566-38,#u566-39
-{
-	text-align: left;
-	line-height: 19px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-}
-
-#u566-41
-{
-	font-size: 18px;
-	text-align: left;
-	line-height: 24px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-}
-
-#u566-43,#u566-47
-{
-	font-size: 18px;
-	text-align: left;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u566-42,#u566-44
+#u566-2
 {
-	font-size: 14px;
-	color: #474747;
 	line-height: 19px;
 }
 
-#u566-45
+#u566-3
+{
+	font-size: 16px;
+	color: #FFFFFF;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
+	line-height: 22px;
+}
+
+#u566-5
+{
+	text-align: left;
+	line-height: 19px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u566-7
+{
+	font-size: 22px;
+	text-align: left;
+	line-height: 30px;
+	color: #FFFFFF;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
+}
+
+#u566-10
+{
+	font-size: 18px;
+	text-align: left;
+	color: #FFFFFF;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u566-8
 {
 	font-size: 14px;
 	line-height: 19px;
 }
 
-#u566-2,#u566-10,#u566-13,#u566-16,#u566-19,#u566-22,#u566-25,#u566-28,#u566-31,#u566-34,#u566-37,#u566-40,#u566-50
+#u566-9
 {
-	color: #474747;
+	font-size: 16px;
+	line-height: 22px;
 }
 
-#u566-53,#u566-61,#u566-65,#u566-67,#u566-72
+#u566-14
+{
+	font-size: 16px;
+	text-align: left;
+	line-height: 22px;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
+}
+
+#u566-16,#u566-32,#u566-33
+{
+	font-size: 18px;
+	line-height: 21px;
+	letter-spacing: 0px;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
+}
+
+#u566-18,#u566-35
+{
+	font-size: 22px;
+	line-height: 26px;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
+}
+
+#u566-21,#u566-38
 {
 	font-size: 18px;
 	letter-spacing: 0px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	color: #FFFFFF;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u566-52,#u566-58,#u566-64,#u566-66,#u566-69
+#u566-19,#u566-36
 {
 	font-size: 14px;
+	line-height: 17px;
+}
+
+#u566-20,#u566-37
+{
+	font-size: 16px;
+	line-height: 19px;
+}
+
+#u566-22,#u566-39
+{
+	font-size: 18px;
+	line-height: 21px;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
+}
+
+#u566-27,#u566-31,#u566-43
+{
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 0px;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
+}
+
+#u566-11,#u566-26,#u566-40
+{
 	color: #474747;
-	line-height: 17px;
 }
 
-#u566-55,#u566-56,#u566-59,#u566-70
-{
-	font-size: 14px;
-	line-height: 17px;
-}
-
-#u566-48,#u566-49,#u566-51,#u566-54,#u566-62,#u566-63,#u566-68,#u566-73,#u566-74,#u566-75,#u566-76,#u566-77,#u566-78,#u566-79,#u566-80
+#u566-15,#u566-44,#u566-45,#u566-46,#u566-47,#u566-48,#u566-49,#u566-50,#u566-51
 {
 	font-size: 18px;
 	line-height: 21px;
@@ -172,7 +222,7 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u566-81
+#u566-52
 {
 	line-height: 17px;
 	letter-spacing: 0px;
@@ -181,7 +231,7 @@
 
 .html
 {
-	background-color: #FAFF97;
+	background-color: #000000;
 }
 
 body
@@ -190,8 +240,17 @@ body
 	min-width: 320px;
 }
 
-#u602_img
+#u663_img
 {
 	width: 100%;
+}
+
+@font-face
+{
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	src: url('../fonts/perfectdosvga437win.eot');
+	src: local('☺'), url('../fonts/perfectdosvga437win.woff') format('woff'), url('../fonts/perfectdosvga437win.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
 }
 

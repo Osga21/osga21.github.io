@@ -98,26 +98,26 @@ body
 
 a:link
 {
-	color: #0000FF;
-	text-decoration: underline;
+	color: #00F0F3;
+	text-decoration: inherit;
 }
 
 a:visited
 {
-	color: #800080;
-	text-decoration: underline;
+	color: #00F0F3;
+	text-decoration: inherit;
 }
 
 a:hover
 {
-	color: #0000FF;
-	text-decoration: underline;
+	color: #5E5BFF;
+	text-decoration: inherit;
 }
 
 a:active
 {
-	color: #EE0000;
-	text-decoration: underline;
+	color: #FFFFFF;
+	text-decoration: inherit;
 }
 
 a.nontext /* used to override default properties of 'a' tag */
@@ -126,30 +126,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 	font-style: normal;
 	font-weight: normal;
-}
-
-.Mine a:link
-{
-	color: #030C00;
-	text-decoration: inherit;
-}
-
-.Mine a:visited
-{
-	color: #000000;
-	text-decoration: inherit;
-}
-
-.Mine a:hover
-{
-	color: #474747;
-	text-decoration: underline;
-}
-
-.Mine a:active
-{
-	color: #000000;
-	text-decoration: inherit;
 }
 
 .normal_text
@@ -168,6 +144,13 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-transform: none;
 	vertical-align: 0px;
 	padding: 0px;
+}
+
+.Character-Style
+{
+	color: #7F7F7F;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
 }
 
 .list0 li:before
