@@ -4,8 +4,8 @@
 
 .version.other_junk /* version checker */
 {
-	color: #0000F8;
-	background-color: #3DC8DC;
+	color: #00000A;
+	background-color: #17B185;
 }
 
 #muse_css_mq
@@ -58,7 +58,7 @@
 
 #u554-17
 {
-	z-index: 60;
+	z-index: 42;
 	min-height: 42px;
 	position: relative;
 	margin-right: -10000px;
@@ -69,13 +69,13 @@
 
 #u663
 {
-	z-index: 77;
+	z-index: 59;
 	position: relative;
 	margin-right: -10000px;
 	width: 29.06%;
 }
 
-#u566-52
+#u566-34
 {
 	z-index: 8;
 	min-height: 478px;
@@ -156,22 +156,7 @@
 	font-weight: 400;
 }
 
-#u566-18
-{
-	font-size: 14px;
-	line-height: 17px;
-}
-
-#u566-15,#u566-31,#u566-32
-{
-	font-size: 18px;
-	line-height: 21px;
-	letter-spacing: 0px;
-	font-family: '__Perfect DOS VGA 437 Win_5';
-	font-weight: 400;
-}
-
-#u566-17,#u566-34
+#u566-16
 {
 	font-size: 16px;
 	line-height: 19px;
@@ -181,7 +166,7 @@
 	font-weight: 400;
 }
 
-#u566-20,#u566-36
+#u566-18
 {
 	font-size: 18px;
 	letter-spacing: 0px;
@@ -191,13 +176,13 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u566-19,#u566-35
+#u566-17
 {
 	font-size: 16px;
 	line-height: 19px;
 }
 
-#u566-21,#u566-37
+#u566-19
 {
 	font-size: 18px;
 	line-height: 21px;
@@ -207,7 +192,7 @@
 	font-weight: 400;
 }
 
-#u566-26,#u566-30,#u566-41
+#u566-23
 {
 	font-size: 16px;
 	line-height: 19px;
@@ -216,12 +201,12 @@
 	font-weight: 400;
 }
 
-#u566-10,#u566-25,#u566-38
+#u566-10,#u566-20
 {
 	color: #474747;
 }
 
-#u566-14,#u566-42,#u566-43,#u566-44,#u566-45,#u566-46,#u566-47,#u566-48,#u566-49
+#u566-14,#u566-24,#u566-25,#u566-26,#u566-27,#u566-28,#u566-29,#u566-30,#u566-31
 {
 	font-size: 18px;
 	line-height: 21px;
@@ -229,7 +214,7 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u566-50
+#u566-32
 {
 	line-height: 17px;
 	letter-spacing: 0px;

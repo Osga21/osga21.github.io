@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="osga21.github.io" resolutions="1x" timestamp="1477767957526">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="osga21.github.io" resolutions="1x" timestamp="1489798067801">
   <folder name="fonts">
     <file name="perfectdosvga437win.woff" crc="4054425561"/>
     <file name="perfectdosvga437win.eot" crc="297327025"/>
@@ -6,10 +6,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="72057780"/>
-    <file name="projects.css" crc="4027621805" ref="projects"/>
+    <file name="projects.css" crc="3928182106" ref="projects"/>
     <file name="index.css" crc="4096591038" ref="index"/>
     <file name="about.css" crc="326210907" ref="about"/>
-    <file name="other-junk.css" crc="4164798684" ref="other-junk"/>
+    <file name="other-junk.css" crc="169324933" ref="other-junk"/>
     <file name="master_master-page.css" crc="174341670" ref="other-junk:index:about:projects"/>
   </folder>
   <folder name="assets">
@@ -27,8 +27,8 @@
   <folder name="images">
     <file name="x-osga21.png" crc="160255770" seo="true" ref="index:projects:other-junk:about"/>
   </folder>
-  <file name="index.html" crc="4067831940" seo="true" mt="1477767946138" redirect="true"/>
-  <file name="projects.html" crc="298317770" seo="true" mt="1477767946138" redirect="true"/>
-  <file name="other-junk.html" crc="3861015311" seo="true" mt="1477767946138" redirect="true"/>
-  <file name="about.html" crc="3836187591" seo="true" mt="1477767946138" redirect="true"/>
+  <file name="index.html" crc="4067831940" seo="true" mt="1489797941982" redirect="true"/>
+  <file name="projects.html" crc="525782812" seo="true" mt="1489797730327" redirect="true"/>
+  <file name="other-junk.html" crc="4210196548" seo="true" mt="1489797798949" redirect="true"/>
+  <file name="about.html" crc="3836187591" seo="true" mt="1489798005131" redirect="true"/>
 </manifest>
