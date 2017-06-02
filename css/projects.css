@@ -4,8 +4,8 @@
 
 .version.projects /* version checker */
 {
-	color: #0000EA;
-	background-color: #234D5A;
+	color: #000019;
+	background-color: #CE7A18;
 }
 
 #muse_css_mq
@@ -58,7 +58,7 @@
 
 #u554-17
 {
-	z-index: 55;
+	z-index: 72;
 	min-height: 42px;
 	position: relative;
 	margin-right: -10000px;
@@ -69,13 +69,13 @@
 
 #u663
 {
-	z-index: 72;
+	z-index: 89;
 	position: relative;
 	margin-right: -10000px;
 	width: 29.06%;
 }
 
-#u557-47
+#u557-64
 {
 	z-index: 8;
 	min-height: 619px;
@@ -175,17 +175,26 @@
 	color: #ED1C24;
 }
 
-#u557-35,#u557-38,#u557-41
+#u557-47
 {
-	color: #FFFFFF;
+	font-size: 16px;
+	line-height: 22px;
+	color: #ED1C24;
+	font-family: '__Perfect DOS VGA 437 Win_5';
+	font-weight: 400;
 }
 
-#u557-9,#u557-13,#u557-31,#u557-32,#u557-34,#u557-36,#u557-37,#u557-44,#u557-45
+#u557-9,#u557-13,#u557-31,#u557-32,#u557-34,#u557-36,#u557-37,#u557-44,#u557-45,#u557-49,#u557-54,#u557-62
 {
 	font-size: 16px;
 	line-height: 22px;
 	font-family: '__Perfect DOS VGA 437 Win_5';
 	font-weight: 400;
+}
+
+#u557-35,#u557-38,#u557-41,#u557-48,#u557-50,#u557-53,#u557-55,#u557-58,#u557-61
+{
+	color: #FFFFFF;
 }
 
 #u679
